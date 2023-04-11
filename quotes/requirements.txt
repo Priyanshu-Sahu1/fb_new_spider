@@ -1,0 +1,7 @@
+selenium
+pandas
+newspaper3k==0.1.9
+ChromeDriver==2.24.1
+webdriver_manager
+itemadapter
+beautifulsoup4 ==4.11.2
